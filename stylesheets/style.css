@@ -1,0 +1,80 @@
+body {
+  margin: 0px;
+}
+
+li.link {
+  list-style-type: disc;
+}
+
+.header-row {
+  height: 60px;
+  background-color: #292f3f;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+}
+
+.badge {
+  background-color: #07ccef;
+}
+
+span.badge {
+  position: absolute;
+  z-index: 1;
+  right: 30px;
+}
+
+.dashboard-navbar {
+  height: 40px;
+}
+
+.border-bottom {
+  height: 2px;
+  width: auto;
+  background-color: lightgrey;
+}
+
+.settings {
+  height: 60px;
+  width: 60px;
+  padding: 10px;
+  background-color: #292f3f;
+}
+
+.cog {
+  font-size: 40px;
+}
+
+.statistic {
+  height: 120px;
+  width: auto;
+  opacity: 0.9;
+}
+
+.chart {
+  height: 300px;
+  width: auto;
+  border: 2px solid lightgrey;
+}
+
+.badge-chart {
+  font-size: 15px;
+  background-color: red;
+}
+
+.badge-chart-border-red {
+  font-size: 15px;
+  border: 1px solid red;
+  color: red;
+  background-color: white;
+}
+
+
+.badge-chart-border-black {
+  font-size: 15px;
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+}

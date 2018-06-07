@@ -1,0 +1,51 @@
+.p-0 {
+  padding: 0px;
+}
+
+.p-t-b-10 {
+  padding: 10px 0px 10px 0px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-4 {
+  margin-top: 4px;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
+}
+
+.ml-7 {
+  margin-left: 7px;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-red {
+  color: red;
+}
+
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-lightblue {
+  background-color: lightblue;
+}
+
+.bg-violet {
+  background-color: darkviolet;
+}
